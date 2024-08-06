@@ -1,3 +1,5 @@
+# OUTPUT IMAGES
+![op1](1.jpg)
 # Node.js API with Express, Mongoose, JWT, and Bcrypt
 
 This project is a Node.js API built using Express.js, Mongoose for MongoDB, JWT for authentication, and bcrypt for password hashing. It provides endpoints for user signup, login, and article management with filtering capabilities.
@@ -21,11 +23,3 @@ This project is a Node.js API built using Express.js, Mongoose for MongoDB, JWT 
 - node app.js
 - go to port 5000
 - Outputs demonstrated on POSTMAN
-
-## Installation
-
-1. **Clone the repository**
-
-   ```bash
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo

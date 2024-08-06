@@ -4,6 +4,7 @@
 ![op3](3.png)
 ![op4](4.png)
 ![op5](5.png)
+![op6](6.png)
 
 # Node.js API with Express, Mongoose, JWT, and Bcrypt
 

@@ -1,5 +1,12 @@
 # OUTPUT IMAGES
 ![op1](1.png)
+![op2](2.png)
+![op3](3.png)
+![op4](4.png)
+![op5](5.png)
+![op6](6.png)
+![op7](7.png)
+
 # Node.js API with Express, Mongoose, JWT, and Bcrypt
 
 This project is a Node.js API built using Express.js, Mongoose for MongoDB, JWT for authentication, and bcrypt for password hashing. It provides endpoints for user signup, login, and article management with filtering capabilities.
